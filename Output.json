@@ -1,0 +1,14 @@
+{"actions":[{"name": "Data",
+"checkColor":[[255,79,116,154],[255,79,116,154],[255,94,128,163]],
+"checkPoint":[[1383,733],[1087,539],[985,407]],
+"pointColorData":{
+"color":[],
+"point":[]
+},
+"randomPoints":[[965,658]],
+"randomColors":[],
+"Active":"True"
+}
+
+]
+}
